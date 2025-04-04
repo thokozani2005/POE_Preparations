@@ -191,20 +191,3 @@ namespace POE_Preparations
 
 
 }
-
-//public bool Exit_Bot(string response)
-//{
-//    Boolean verify = false;
-//    if (response.Contains("goodbye") || response.Contains("bye") || response.Contains("exit"))
-//    {
-
-
-//        validate.AddBotTypingEffect("----------------------------------------------\n", ConsoleColor.DarkYellow);
-//        validate.AddBotTypingEffect("Bot: Goodbye " + userName + " Hope you had a nice experience. \n----------------------------------------------", ConsoleColor.DarkYellow);
-
-//        System.Environment.Exit(0);
-//        verify = true;
-//        Console.ForegroundColor = ConsoleColor.White;
-//    }
-//    return verify;
-//}
